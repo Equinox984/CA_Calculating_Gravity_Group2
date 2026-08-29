@@ -8,7 +8,7 @@ theta_max = 5        # degrees
 n_osc = 30           # oscillations per trial
 delta_L = 0.0023     # m
 delta_tn = 0.3       # s
-g_accepted = 9.778   # m/s²
+g_accepted = 9.7808   # m/s²
 
 # --- Data ---
 data = pd.read_csv("table2.txt", sep=r"\s+")
