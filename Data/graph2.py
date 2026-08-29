@@ -11,7 +11,7 @@ import matplotlib as mp
 
 
 # Final results from the report (Experimental Results section)
-g_theoretical = 9.778          # accepted local value [m/s^2]
+g_theoretical = 9.7808          # accepted local value [m/s^2]
 
 g_m1, dg_m1 = 9.2953, 0.1288   # Method I:  averages of Tables 1 & 2
 g_m2, dg_m2 = 9.4663, 0.0311   # Method II: average of Table 3
